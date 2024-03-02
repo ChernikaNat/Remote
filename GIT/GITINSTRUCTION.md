@@ -85,3 +85,6 @@ git checkout master
  `  или  `
 git checkout main
  `
+
+ ## Игнорирование файлов
+ 
